@@ -1,0 +1,2 @@
+# Morris-Game-Variant-D
+he object of the game is to remove an opponent’s pieces by forming lines of three pieces (“mills”) along any of the 16 lines. A mill can be formed in a row (three across) or a column (three down). A player wins when his or her opponent has only 2 pieces left, or if the opponent has no legal moves available. Used Artifical Intelligence Algorithms- MiniMax and alpha-beta pruning.
